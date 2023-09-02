@@ -1,4 +1,4 @@
-# Projeto de Gerenciamento de Clientes em Java (Estilo "Page-centric")
+# Projeto de Gerenciamento de Clientes em Java (Abordagem "Page-centric")
 
 **Status do Projeto:** Em Execução
 
